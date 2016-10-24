@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ZakariaRidouh/baby-names-cli#readme",
   "dependencies": {
-    "baby-names": "0.0.2",
-    "meow": "^3.7.0"
+    "baby-names": "0.0.3",
+    "meow": "3.7.0"
   }
 }
